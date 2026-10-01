@@ -1,6 +1,6 @@
 public class Break_Continue {
     public static void main(String[] args) {
-        int control=0,f =0;
+        int f =0;
         System.out.println("Cargando registros");
         while(f<=10){
             System.out.println("Ciclo" + f);

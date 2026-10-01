@@ -1,8 +1,6 @@
-import java.util.Scanner;
-
 public class Clase_Math {
     public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
+        //Scanner entrada = new Scanner(System.in);
         //****RAIZ CUADRADA***
         System.out.println("Ingresa un número");
         int numero = 9;

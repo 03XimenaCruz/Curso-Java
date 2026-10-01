@@ -5,16 +5,16 @@ public class Bucle_While {
         int f =0;
         Scanner entrada = new Scanner(System.in);
 
-       /* while(f <= 5){
+       while(f <= 5){
             System.out.println("Vuelta #: "+ f);
             if(f==3){
                 System.out.println("soy la vuelta 3");
             }
             f++;
-        }*/
+        }
 
         //Tabla de multiplicar
-        /*int valor;
+        int valor;
 
         System.out.println("Ingrese tabla a consultar..");
         valor = entrada.nextInt();
@@ -22,7 +22,7 @@ public class Bucle_While {
         while (f <=10){
             System.out.println(valor+"X"+f+"="+valor*f);
             f++;
-        }*/
+        }
 
 
         final String username = "monkey";
