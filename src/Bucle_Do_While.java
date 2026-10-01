@@ -14,7 +14,7 @@ public class Bucle_Do_While {
 
 
         //EJERCICIO CON DO WHILE
-        int numero =0,errores=0;
+        int numero,errores=0;
         do{
             System.out.println("Ingresa el numero 3");
             numero = entrada.nextInt();

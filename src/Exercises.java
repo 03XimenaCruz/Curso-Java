@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class Exercises {
     public static void main(String[] args) {
-/*
+
         //*****PEDIR NUMERO Y VERIFICAR SI ES POSITIVO O NEGATIVO
         int num =0;
         String numero;
@@ -57,7 +57,7 @@ public class Exercises {
         while (q<=5){
             System.out.println(q);
             q++;
-        }*/
+        }
 
 
         //*****CICLO DO WHILE
