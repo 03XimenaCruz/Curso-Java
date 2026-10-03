@@ -6,7 +6,7 @@ public class Enumerada {
 
     public static void main(String[] args) {
         DiasSemana hoy = DiasSemana.Lunes;
-        //for ich recorre una lista de valores utilizando -> .values
+        //for each recorre una lista de valores utilizando -> .values
         for (DiasSemana dia : DiasSemana.values()) {
             System.out.println(dia);
         }
